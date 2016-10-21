@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="SIGN">SIGN IN</string>
+    <string name="FORGOT">FORGOT PASSWORD?</string>
+    <string name="OR">OR</string>
+</resources>
