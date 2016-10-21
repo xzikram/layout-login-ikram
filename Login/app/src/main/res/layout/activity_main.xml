@@ -11,33 +11,6 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.ikram.login.MainActivity">
 
-    <TextView
-        android:text="SIGN IN"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/text1"
-        android:textColor="#000000"
-        android:drawableLeft="@mipmap/ic_launcher"
-        android:textSize="42dp"/>
-
-    <ImageButton
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/btn1"
-        android:src="@mipmap/f"
-        android:background="#ff0000"
-        android:layout_below="@id/text1"/>
-
-    <ImageButton
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/btn2"
-        android:src="@mipmap/fb"
-        android:background="@color/colorPrimaryDark"
-        android:drawableright="btn1"
-        android:layout_below="@+id/text1"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
 
     <TextView
         android:text="OR"
